@@ -14,10 +14,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
-/**
- *
- * @author rs69421
- */
+
 
 @Entity
 @Table(name = "Student_tbl")
