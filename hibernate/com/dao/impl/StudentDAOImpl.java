@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package hibernate.com.dao;
+package hibernate.com.dao.impl;
 
 import hibernate.com.dao.impl.StudentDAO;
 import hibernate.com.entity.Student;
