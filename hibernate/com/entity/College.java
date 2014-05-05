@@ -14,10 +14,7 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-/**
- *
- * @author rs69421
- */
+
 
 @Entity
 @Table(name = "COLLEGE_TBL")
